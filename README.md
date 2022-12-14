@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Miguel Silva
 
 After 6 years of working as a Consultant for KPMG Portugal I decided to embrace a new challenge and learn code at Le Wagon. 
 
